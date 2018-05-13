@@ -8,7 +8,7 @@ architecture, as well as a web front end with ASP.NET web controls and
 script integration.
 
 The Create scripts for the application's Microsoft SQL Server Database 
-can be found in the 'SQL' folder. These files should be run prior to
+can be found in the 'sql' folder. These files should be run prior to
 attempting to build and run the application itself, as all card and
 user information is accessed and manipulated by the data access layer
 using its stored procedures.
