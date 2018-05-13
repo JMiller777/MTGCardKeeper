@@ -1,0 +1,155 @@
+C:\Users\John\Desktop\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb

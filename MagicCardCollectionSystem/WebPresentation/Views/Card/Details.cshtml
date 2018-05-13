@@ -1,0 +1,87 @@
+﻿@model DataTransferObjects.Card
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Card Details</h4>
+    <hr />
+    
+    <table>
+        <tr>
+            <td>
+                <img class="left" src="~/Images/@Model.ImgFileName" width="200" height="300" />
+            </td>
+            <td>
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Name)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.EditionID)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.EditionID)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.RarityID)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.RarityID)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ColorID)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.ColorID)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.TypeID)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.TypeID)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.CardText)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.CardText)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.IsFoil)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.IsFoil)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Active)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.Active)
+                    </dd>
+                </dl>
+            </td>
+        </tr>
+    </table>
+   
+       
+
+</div>
+<p class="clear">
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CardID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+

@@ -1,0 +1,884 @@
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll.config
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.fixSignIn.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.fixSignIn.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Owin.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebGrease.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.fixSignIn.resources
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.signInUpdate.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.dll.config
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Antlr3.Runtime.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.SqlServer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\LogicLayer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Newtonsoft.Json.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Owin.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Helpers.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Mvc.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Optimization.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Razor.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Razor.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebGrease.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataAccessLayer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\LogicLayer.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Antlr3.Runtime.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.SqlServer.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Newtonsoft.Json.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Helpers.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Mvc.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Razor.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Razor.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Optimization.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataAccessLayer.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.fixSignIn.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.signInUpdate.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.dll.config
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebPresentation.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Antlr3.Runtime.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.SqlServer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\LogicLayer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Newtonsoft.Json.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Owin.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Helpers.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Mvc.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Optimization.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Razor.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Razor.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\WebGrease.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataAccessLayer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataTransferObjects.dll.config
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\LogicLayer.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Antlr3.Runtime.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\EntityFramework.SqlServer.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Newtonsoft.Json.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Helpers.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Mvc.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Razor.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.WebPages.Razor.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\System.Web.Optimization.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\bin\DataAccessLayer.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.fixSignIn.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.Migrations.signInUpdate.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.csproj.CoreCompileInputs.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\WebPresentation\obj\Debug\WebPresentation.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.fixSignIn.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.signInUpdate.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll.config
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\WebPresentation.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Owin.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\WebGrease.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\DataTransferObjects.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\LogicLayer.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Antlr3.Runtime.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\EntityFramework.SqlServer.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Newtonsoft.Json.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Helpers.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Mvc.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Razor.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\System.Web.Optimization.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\bin\DataAccessLayer.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csprojResolveAssemblyReference.cache
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.InitialCreate.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedadminuser.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardroles.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.addedstandardrolesagain.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.fixSignIn.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.Migrations.signInUpdate.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.csproj.GenerateResource.Cache
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\WebPresentation\obj\Debug\WebPresentation.pdb

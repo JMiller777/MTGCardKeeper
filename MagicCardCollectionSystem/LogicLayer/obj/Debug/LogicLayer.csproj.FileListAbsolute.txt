@@ -1,0 +1,279 @@
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\LogicLayer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\LogicLayer.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataAccessLayer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataAccessLayer.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\LogicLayer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\bin\Debug\DataTransferObjects.dll.config
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\LogicLayer\obj\Debug\LogicLayer.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\bin\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\LogicLayer\obj\Debug\LogicLayer.pdb

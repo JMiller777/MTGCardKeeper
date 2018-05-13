@@ -1,0 +1,704 @@
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+D:\Kirkwood 2017-2018\Dot Net II\FinalProjectMagicCards\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+D:\Kirkwood 2017-2018\Dot Net II\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\BackupFinalMagicCardsAnd2\New folder\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\john_\Documents\Kirkwood\Fall 2017\Dot Net II\FinalMagicCards2 (2)\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+F:\Dot Net II\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+F:\Dot Net II\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+F:\Dot Net II\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\nh229u11\Desktop\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+F:\Dot Net II\WeekAfterBreak\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+F:\Dot Net II\WeekAfterBreak\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+F:\Dot Net II\WeekAfterBreak\FinalProjectMondayMorning\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\nh229u11\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u18\Desktop\FinalMagicCards1130 (2)\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+D:\FinalMagicCards1130\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\FinalMagicCards2\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\DotNetIIFinalProject\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\DotNetIIFinalProject\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\nh229u11\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+E:\backup\DotNetIIFinalProject\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\john_\Desktop\finalDotNet\WithImages\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\john_\Desktop\finalDotNet\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+F:\Spring 2018\DotNet3\FinalProject\WithImages\NeedsSaveFunctionality\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+D:\4-18\FinalWebProject\MagicCardCollectionSystem (2)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+D:\Kirkwood\2017-2018\Spring 2018\DotNet3\FinalProject\4-26\MagicCardCollectionSystem (4)\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+D:\Kirkwood\2017-2018\Spring 2018\DotNet3\FinalProject\4-26\MagicCardCollectionSystem (4)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+D:\Kirkwood\2017-2018\Spring 2018\DotNet3\FinalProject\4-26\MagicCardCollectionSystem (4)\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\DotNet3Project4-27BeforeCapstone\MagicCardCollectionSystem\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardCollectionSystem1030pm05-08\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicAllInterfacesWorking1\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardWebViewCardsWorking\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\John\Desktop\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\App.g.cs
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+H:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll.config
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\App.g.cs
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.CoreCompileInputs.cache
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+E:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystemDetailFormsWorking\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe.config
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\MagicCardCollectionSystem.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataTransferObjects.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\LogicLayer.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.baml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.baml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.baml
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmCardDetails.g.cs
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MainWindow.g.cs
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\App.g.cs
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem_MarkupCompile.cache
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.g.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.Properties.Resources.resources
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.csproj.GenerateResource.Cache
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.exe
+C:\Users\nh229u12\Desktop\MagicCardCollectionSystem\MagicCardCollectionSystem\obj\Debug\MagicCardCollectionSystem.pdb
