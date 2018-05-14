@@ -56,7 +56,56 @@ namespace WebPresentation.Controllers
         public ActionResult Edit(int id)
         {
             var cdList = _cdMgr.RetrieveCardList();
+
+            var colorList = _cdMgr.RetrieveColorList().ToList();
+            List<string> allColors = new List<string>();
+
+            var editionList = _cdMgr.RetrieveEditionList().ToList();
+            List<string> allEditions = new List<string>();
+
+            var rarityList = _cdMgr.RetrieveRarityList().ToList();
+            List<string> allRarities = new List<string>();
+
+            var typeList = _cdMgr.RetrieveTypeList().ToList();
+            List<string> allTypes = new List<string>();
+
             Card card = cdList.Find(cd => cd.CardID == id);
+
+            foreach (var color in colorList)
+            {
+                if (color.ToString() != card.ColorID)
+                {
+                    allColors.Add(color.ColorID.ToString());
+                }
+            }
+            ViewBag.Colors = allColors;
+
+            foreach (var edition in editionList)
+            {
+                if (edition.ToString() != card.EditionID)
+                {
+                    allEditions.Add(edition.EditionID.ToString());
+                }
+            }
+            ViewBag.Editions = allEditions;
+
+            foreach (var type in typeList)
+            {
+                if (type.ToString() != card.TypeID)
+                {
+                    allTypes.Add(type.TypeID.ToString());
+                }
+            }
+            ViewBag.Types = allTypes;
+
+            foreach (var rarity in rarityList)
+            {
+                if (rarity.ToString() != card.RarityID)
+                {
+                    allRarities.Add(rarity.RarityID.ToString());
+                }
+            }
+            ViewBag.Rarities = allRarities;
 
             return View(card);
         }

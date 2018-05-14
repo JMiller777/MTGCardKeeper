@@ -219,3 +219,12 @@ F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardC
 F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\bin\Debug\DataTransferObjects.dll
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

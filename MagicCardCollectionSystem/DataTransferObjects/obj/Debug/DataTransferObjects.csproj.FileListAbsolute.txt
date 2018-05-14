@@ -153,3 +153,10 @@ F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardC
 F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
 F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
 F:\Spring 2018\DotNet3\5-9\MagicCardCollectionFinalVersionBeforeClass\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Users\John\source\repos\MTGCardKeeper\MagicCardCollectionSystem\DataTransferObjects\obj\Debug\DataTransferObjects.pdb

@@ -2,6 +2,11 @@
 
 @{
     ViewBag.Title = "Edit";
+
+    List<string> colors = ViewBag.Colors;
+    List<string> types = ViewBag.Types;
+    List<string> editions = ViewBag.Editions;
+    List<string> rarities = ViewBag.Rarities;
 }
 
 <h2>Edit</h2>
@@ -9,7 +14,7 @@
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
+
     <div class="form-horizontal">
         <h4>Card</h4>
         <hr />
@@ -20,6 +25,7 @@
             @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                <br />
                 @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -27,7 +33,11 @@
         <div class="form-group">
             @Html.LabelFor(model => model.ColorID, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.ColorID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.DropDownListFor(model => model.ColorID,
+             new SelectList(colors),
+             "Select a Color",
+             new { @class = "form-control" })
+                <br />
                 @Html.ValidationMessageFor(model => model.ColorID, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -35,7 +45,11 @@
         <div class="form-group">
             @Html.LabelFor(model => model.TypeID, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.TypeID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.DropDownListFor(model => model.TypeID,
+              new SelectList(types),
+              "Select a Type",
+              new { @class = "form-control" })
+                <br />
                 @Html.ValidationMessageFor(model => model.TypeID, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -43,7 +57,11 @@
         <div class="form-group">
             @Html.LabelFor(model => model.EditionID, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.EditionID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.DropDownListFor(model => model.EditionID,
+           new SelectList(editions),
+           "Select an Edition",
+           new { @class = "form-control" })
+                <br />
                 @Html.ValidationMessageFor(model => model.EditionID, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -51,7 +69,11 @@
         <div class="form-group">
             @Html.LabelFor(model => model.RarityID, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.RarityID, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.DropDownListFor(model => model.RarityID,
+           new SelectList(rarities),
+           "Select a Rarity",
+           new { @class = "form-control" })
+                <br />
                 @Html.ValidationMessageFor(model => model.RarityID, "", new { @class = "text-danger" })
             </div>
         </div>
