@@ -1,5 +1,6 @@
-# MagicCardCollectionManagementSystem
-Author: John Miller
+# Magic: The Gathering Card Collection Management System
+Author: John Miller   
+2018/05/13
 
 This desktop/web application allows users to create, retrieve, update 
 and delete cards and card images. It was created using the Visual Studio 
@@ -25,4 +26,3 @@ Thanks for taking the time to look at one of the larger projects I've
 been working on for the last year and a half. 
 
 - John Miller
-  2018/05/13
